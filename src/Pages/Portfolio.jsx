@@ -1,6 +1,5 @@
 import React from "react";
 import data from "../data.json";
-import "./css/portfolio.css";
 import "remixicon/fonts/remixicon.css"; // تأكد من إضافة مسار الأيقونات الصحيح
 
 export default function Portfolio() {
