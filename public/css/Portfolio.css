@@ -1,0 +1,28 @@
+/* styles.css */
+
+.project-list {
+    display: flex;
+    flex-wrap: wrap;          /* عشان العناصر تتوزع على عدة صفوف */
+    justify-content: center;   /* يوسّط العناصر أفقي */
+    gap: 20px;                /* مسافة بين العناصر */
+    padding: 20px;            /* مسافة داخلية */
+  }
+
+.no-projects {
+    list-style: none;
+    display: flex;
+    flex-direction: column;    /* عشان يبقى فوق وتحت */
+    align-items: center;       /* يوسّط أفقي */
+    justify-content: center;   /* يوسّط عمودي */
+    height: 200px;             /* ارتفاع ثابت حسب حاجتك */
+    text-align: center;
+    color: #555;
+    font-size: 1.1rem;
+  }
+  
+  .no-projects .icon {
+    font-size: 2rem;           /* حجم الأيقونة */
+    margin-bottom: 0.5rem;     /* مسافة بين الأيقونة والنص */
+    color: #888;               /* لون الأيقونة */
+  }
+  

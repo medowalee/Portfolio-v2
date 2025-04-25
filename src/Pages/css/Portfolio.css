@@ -1,0 +1,50 @@
+/* styles.css */
+
+.project-not {
+    display: flex;
+    flex-wrap: wrap;          /* عشان العناصر تتوزع على عدة صفوف */
+    justify-content: center;   /* يوسّط العناصر أفقي */
+    gap: 20px;                /* مسافة بين العناصر */
+    padding: 20px;            /* مسافة داخلية */
+  }
+
+.no-projects {
+    list-style: none;
+    display: flex;
+    flex-direction: column;    /* عشان يبقى فوق وتحت */
+    align-items: center;       /* يوسّط أفقي */
+    justify-content: center;   /* يوسّط عمودي */
+    height: 430px;    /* ارتفاع ثابت حسب حاجتك */
+    text-align: center;
+    color: #555;
+    font-size: 4.1rem;
+  }
+  
+  .no-projects .icon {
+    font-size: 5rem;           /* حجم الأيقونة */
+    margin-bottom: 0.5rem;     /* مسافة بين الأيقونة والنص */
+    color: #888;               /* لون الأيقونة */
+  }
+  
+
+  .iframe-wrapper {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .iframe-wrapper iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+    transform: scale(1);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .iframe-wrapper:hover iframe {
+    transform: scale(1.02);
+  }
+  

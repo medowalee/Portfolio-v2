@@ -1,0 +1,144 @@
+{
+  "personalInfo": {
+    "name": "medo",
+    "title": "Web developer",
+    "avatar": "/images/my-avatar.png",
+    "contacts": {
+      "email": "medowaleed2010.2007@gmail.com",
+      "phone": "+966 (56) 765-5792",
+      "birthday": "May 5, 2010",
+      "location": ""
+    },
+    "social": [
+      { "icon": "logo-facebook", "link": "#" },
+      { "icon": "logo-twitter", "link": "#" },
+      { "icon": "logo-instagram", "link": "#" },
+      { "icon": "logo-discord", "link": "https://discord.gg/9Z5sGrcGTn" }
+    ]
+  },
+  "about": {
+    "description": [
+      "I’m a passionate web developer who’s obsessed with everything related to web technology 👨‍💻. I have hands-on experience in designing and building modern, fast websites using the latest tools like React, Vue, Tailwind CSS, Laravel, and more.\nI love working on projects that provide real value to users, and I’m always eager to learn new technologies and improve my skills 💡.\n\nWhether your project is simple or complex, I’m ready to help turn your idea into a real experience on the web ✨."
+    ]
+  },
+  "services": [
+
+    {
+      "icon": "/images/icon-dev.svg",
+      "title": "Web development",
+      "description": "High-quality development of sites at the professional level."
+    }
+  ],
+  "testimonials": [
+    {
+      "avatar": "/images/avatar-1.png",
+      "name": "Daniel lewis",
+      "text": "Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client."
+    },
+    {
+      "avatar": "/images/avatar-2.png",
+      "name": "Jessica miller",
+      "text": "Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client."
+    },
+    {
+      "avatar": "/images/avatar-3.png",
+      "name": "Emily evans",
+      "text": "Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client."
+    },
+    {
+      "avatar": "/images/avatar-4.png",
+      "name": "Henry william",
+      "text": "Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client."
+    }
+  ],
+  "resume": {
+    "education": [
+      {
+        "title": "University school of the arts",
+        "period": "2007 — 2008",
+        "description": "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+      },
+      {
+        "title": "New york academy of art",
+        "period": "2006 — 2007",
+        "description": "Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis.."
+      },
+      {
+        "title": "High school of art and design",
+        "period": "2002 — 2004",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos."
+      }
+    ],
+    "experience": [
+      {
+        "title": "Creative director",
+        "period": "2015 — Present",
+        "description": "Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur."
+      },
+      {
+        "title": "Art director",
+        "period": "2013 — 2015",
+        "description": "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+      },
+      {
+        "title": "Web designer",
+        "period": "2010 — 2013",
+        "description": "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Web design",
+        "value": 80
+      },
+      {
+        "name": "Graphic design",
+        "value": 70
+      },
+      {
+        "name": "Branding",
+        "value": 90
+      },
+      {
+        "name": "WordPress",
+        "value": 50
+      }
+    ]
+  },
+  "portfolio": {
+    "categories": ["All", "react", "html-css-js"],
+    "projects": [
+      {
+        "title": "almasa",
+        "alt": "Web hosting",
+        "image": "https://i.imgur.com/TyWyxWc.png",
+        "link": "https://server-dash-bay.vercel.app/",
+        "category": "react"
+      },
+
+      {
+        "title": "Holy Quran",
+        "alt": "Holy-Quran-website",
+        "image": "https://i.imgur.com/rGVExxZ.png",
+        "link": "https://medowalee.github.io/Holy-Quran-website/",
+        "category": "html-css-js"
+      },
+      
+      {
+        "title": "shop",
+        "alt": "Web shop",
+        "image": "https://cdn.discordapp.com/attachments/1358435749602791665/1364840366766948492/ID7TqeAAAAAElFTkSuQmCC.png?ex=680b2224&is=6809d0a4&hm=c0220a2f2a3302e2468b59d705152eb19308220f5bc7f258bc8488780e759bb3&",
+        "link": "https://shop-react-lemon.vercel.app",
+        "category": "react"
+      },
+
+      {
+        "title": "maincraft server",
+        "alt": "Web server",
+        "image": "https://cdn.discordapp.com/attachments/1358435749602791665/1364842350169554984/image.png?ex=680b23fd&is=6809d27d&hm=d99a91511bcc663f3f9b16c2e9880703145d7067125d338d878764b23db1e2d4&",
+        "link": "https://medowalee.github.io/relax/",
+        "category": "html-css-js"
+      }
+    ]
+  }
+}
