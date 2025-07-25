@@ -332,8 +332,8 @@
   }
   
   .avatar-box {
-    background: var(--bg-gradient-onyx);
-    border-radius: 20px;
+/*     background: var(--bg-gradient-onyx);*/
+    border-radius: 20px; 
   }
   
   .info-content .name {
